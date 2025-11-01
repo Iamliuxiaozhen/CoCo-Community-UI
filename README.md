@@ -8,6 +8,7 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 
 ## UI展览
 ### 「展示卡片」UI展览
+[展览文档](card/README.md)  
 - 部分数据为演示数据。
 #### 4.0方案
 ![4.0方案图](exhibition/card/4.0.png)
