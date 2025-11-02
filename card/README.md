@@ -1,4 +1,6 @@
 # Card 展览
+## 5.0方案(最新版本)
+![5.0方案图](../exhibition/card/5.0.png)
 ## 4.0方案
 ![4.0方案图](../exhibition/card/4.0.png)
 ## 3.0方案
