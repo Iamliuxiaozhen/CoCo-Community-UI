@@ -18,3 +18,6 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 ![2.0方案图](exhibition/card/2.0.png)
 #### 1.0方案（新一代）
 ![1.0方案图](exhibition/card/新一代.png)
+#### 最初版本
+- 源最初版本是有设计展示下载量等数据的，不过后来由于不好技术原因不好展示移除。
+![最初版本方案图](exhibition/card/最初版本.png)
