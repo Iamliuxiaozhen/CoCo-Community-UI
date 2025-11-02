@@ -7,3 +7,5 @@
 ![2.0方案图](../exhibition/card/2.0.png)
 ## 1.0方案（新一代）
 ![1.0方案图](../exhibition/card/新一代.png)
+## 最初版本
+![最初版本方案图](../exhibition/card/最初版本.png)
