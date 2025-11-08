@@ -8,18 +8,18 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 
 ## UI展览
 ### 「展示卡片」UI展览
-[展览文档](card/README.md)  
+[展览文档](card-control/README.md)  
 - 部分数据为演示数据。
 #### 5.0方案(最新版本)
-![5.0方案图](exhibition/card/5.0.png)
+![5.0方案图](exhibition/card-control/5.0.png)
 #### 4.0方案
-![4.0方案图](exhibition/card/4.0.png)
+![4.0方案图](exhibition/card-control/4.0.png)
 #### 3.0方案
-![3.0方案图](exhibition/card/3.0.png)
+![3.0方案图](exhibition/card-control/3.0.png)
 #### 2.0方案
-![2.0方案图](exhibition/card/2.0.png)
+![2.0方案图](exhibition/card-control/2.0.png)
 #### 1.0方案（新一代）
-![1.0方案图](exhibition/card/新一代.png)
+![1.0方案图](exhibition/card-control-control/新一代.png)
 #### 最初版本
 - 源最初版本是有设计展示下载量等数据的，不过后来由于不好技术原因不好展示移除。  
-![最初版本方案图](exhibition/card/最初版本.png)
+![最初版本方案图](exhibition/card-control/最初版本.png)
