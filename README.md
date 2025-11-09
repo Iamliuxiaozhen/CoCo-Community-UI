@@ -4,10 +4,13 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 谢谢！~  
 
 ## 目前正在设计的新UI
-- 展示卡片
+- 用户卡片
+
+## 已完成设计的卡片
+- 控件卡片
 
 ## UI展览
-### 「展示卡片」UI展览
+### 「控件卡片」UI展览
 [展览文档](card-control/README.md)  
 - 部分数据为演示数据。
 #### 5.0方案(最新版本)
@@ -19,7 +22,7 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 #### 2.0方案
 ![2.0方案图](exhibition/card-control/2.0.png)
 #### 1.0方案（新一代）
-![1.0方案图](exhibition/card-control-control/新一代.png)
+![1.0方案图](exhibition/card-control/新一代.png)
 #### 最初版本
 - 源最初版本是有设计展示下载量等数据的，不过后来由于不好技术原因不好展示移除。  
 ![最初版本方案图](exhibition/card-control/最初版本.png)
