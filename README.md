@@ -18,7 +18,7 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 #### 2.0版本
 ![2.0版本](exhibition/user-card/2.0.png)
 #### 1.0版本
-![1.0版本](exhibition/user-card/1.0.png)2
+![1.0版本](exhibition/user-card/1.0.png)
 
 ### 「控件卡片」UI展览
 [展览文档](card-control/README.md)  
