@@ -4,12 +4,22 @@ Hello,欢迎来到此仓库，此仓库为新CoCo-Community更新的UI做准备�
 谢谢！~  
 
 ## 目前正在设计的新UI
-- 用户卡片
+- 文章卡片
 
 ## 已完成设计的卡片
 - 控件卡片
+- 用户卡片
 
 ## UI展览
+### 「用户卡片」UI展览
+[展览文档](user-card/README.md)
+#### 3.0版本
+![3.0版本](exhibition/user-card/3.0.png)
+#### 2.0版本
+![2.0版本](exhibition/user-card/2.0.png)
+#### 1.0版本
+![1.0版本](exhibition/user-card/1.0.png)2
+
 ### 「控件卡片」UI展览
 [展览文档](card-control/README.md)  
 - 部分数据为演示数据。
